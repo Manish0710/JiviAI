@@ -1,4 +1,4 @@
 # Ignore any file or directory containing 'train', 'test', or 'data'
-*train*
-*test*
+train
+test
 dataset_augmented
